@@ -52,7 +52,7 @@ function App() {
             - {project.description}
             <a
               className="App-link"
-              href='YOUTUBE LINK'
+              href='https://youtu.be/rriuo_llWzY'
               target="_blank"
               rel="noopener noreferrer"
               style={{ margin: "10px" }}
