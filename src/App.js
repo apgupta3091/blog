@@ -8,7 +8,7 @@ const projects = [
     name: "Django To-Do list",
     github: "https://github.com/apgupta3091/ToDoList",
     description:
-      "A web app using CSS3, HTML5, Python3, Django, and Bootstrap. Allows users to input events to a table, edit them, cross them off, uncross them, and delete them.",
+      "A Django web app using CSS3, HTML5, Python3, and Bootstrap. Allows users to input events to a table, edit them, cross them off, uncross them, and delete them.",
   },
 ];
 function App() {
